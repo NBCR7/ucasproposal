@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.3)  25 FEB 2025 19:57
+This is XeTeX, Version 3.141592653-2.6-0.999996 (TeX Live 2024) (preloaded format=xelatex 2024.4.3)  27 FEB 2025 17:56
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1368,23 +1368,50 @@ LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
 
 ] (./Tex/Mainmatter.tex [1
 
-])
-No file Thesis.bbl.
-[2] (./Thesis.aux)
+] [2]
+Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
+[3] [4] [5] [6] [7] [8]
+Overfull \hbox (9.86383pt too wide) in paragraph at lines 121--122
+[]\TU/entextsf/m/n/12.045 2025 \TU/FandolSong-Regular(0)/m/n/12.045 年 \TU/entextsf/m/n/12.045 1 \TU/FandolSong-Regular(0)/m/n/12.045 月\TU/entextsf/m/n/12.045 -2025 \TU/FandolSong-Regular(0)/m/n/12.045 年 \TU/entextsf/m/n/12.045 2 \TU/FandolSong-Regular(0)/m/n/12.045 月：|  完 成 \TU/entextsf/m/n/12.045 LATA-V \TU/FandolSong-Regular(0)/m/n/12.045 的 随 机 指 令 验 证 框 架 和 \TU/entextsf/m/n/12.045 QEMU&LATA-
+ []
+
+) (./Thesis.bbl
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 7.00075pt on input line 20.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
+(Font)              scaled to size 5.00053pt on input line 20.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 6.99925pt on input line 20.
+LaTeX Font Info:    Font shape `TU/XITSMath-Regular(3)/m/n' will be
+(Font)              scaled to size 4.99947pt on input line 20.
+ [9]
+Underfull \hbox (badness 6825) in paragraph at lines 90--94
+[]\TU/entextrm/m/n/10.53937 Inc. A.  About the rosetta translation environment [J/OL].  Apple Developer
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--94
+\TU/entextrm/m/n/10.53937 Documentation, 2023.  [][]$[][][][][] [] [] [] [][][][][][][][][] [] [][][][][] [] [][][] [] [][][][][][][][][][][][][] [] [][][][][][][][][][][][][][] []
+ []
+
+) [10] (./Thesis.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2022/08/05>
  ***********
 Package rerunfilecheck Info: File `Thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 4B80D7AB59E99439C3974A2283314946;1274.
+(rerunfilecheck)             Checksum: 24B95D4A059E6358713EB4D594A0337C;1788.
  ) 
 Here is how much of TeX's memory you used:
- 37568 strings out of 474773
- 764417 string characters out of 5757725
- 1934839 words of memory out of 5000000
- 59098 multiletter control sequences out of 15000+600000
- 569056 words of font info for 134 fonts, out of 8000000 for 9000
+ 37798 strings out of 474773
+ 777845 string characters out of 5757725
+ 1943839 words of memory out of 5000000
+ 59313 multiletter control sequences out of 15000+600000
+ 570429 words of font info for 148 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 118i,9n,130p,539b,2936s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 118i,9n,130p,549b,2936s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on Thesis.pdf (4 pages).
+Output written on Thesis.pdf (12 pages).

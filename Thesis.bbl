@@ -1,0 +1,113 @@
+\begin{thebibliography}{17}
+\providecommand{\biband}{和}
+\providecommand{\bibetal}{等}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[华为技术有限公司(2023)]{huawei2023}
+华为技术有限公司.
+\newblock 华为动态二进制翻译工具（ExaGear） [EB/OL].
+\newblock 2023.
+\newblock \url{https://www.hikunpeng.com/developer/devkit/exagear}.
+
+\bibitem[燕澄皓(2024)]{YCH2024}
+燕澄皓.
+\newblock 二进制翻译中的指令膨胀分析与优化研究 [M].
+\newblock 中国科学院计算技术研究所, 2024.
+
+\bibitem[胡伟武\ {\bibetal}(2023)胡伟武, 汪文祥, 吴瑞阳, 王焕东, 曾露, 徐成华, 高翔, and 张福新]{2022-20196}
+胡伟武, 汪文祥, 吴瑞阳, 等.
+\newblock 龙芯指令系统架构技术 [J/OL].
+\newblock 计算机研究与发展, 2023, 60\penalty0 (1): 2-16.
+\newblock \url{https://crad.ict.ac.cn/cn/article/doi/10.7544/issn1000-1239.202220196}.
+
+\bibitem[胡起(2023)]{hu2023}
+胡起.
+\newblock 指令流分析制导的动态二进制翻译优化技术 [M].
+\newblock 中国科学院计算技术研究所, 2023.
+
+\bibitem[谢汶兵\ {\bibetal}(2024)谢汶兵, 田雪, 漆锋滨, 武成岗, 王俊, and 罗巧玲]{谢汶兵2024二进制翻译技术综述}
+谢汶兵, 田雪, 漆锋滨, 等.
+\newblock 二进制翻译技术综述 [J].
+\newblock 软件学报, 2024, 35\penalty0 (6): 2687-2723.
+
+\bibitem[邹旭(2021)]{zou2021}
+邹旭.
+\newblock 面向二进制翻译的随机化测试生成研究 [D].
+\newblock 中国科学院计算技术研究所, 2021.
+
+\bibitem[Bellard(2005)]{bellard2005}
+Bellard~F.
+\newblock Qemu, a fast and portable dynamic translator [C]//\allowbreak
+USENIX Annual Technical Conference.
+\newblock 2005: 46.
+
+\bibitem[Borin {\bibetal}(2009)Borin and Wu]{5306785}
+Borin~E, Wu~Y.
+\newblock Characterization of dbt overhead [C/OL]//\allowbreak
+2009 IEEE International Symposium on Workload Characterization (IISWC).
+\newblock 2009: 178-187.
+\newblock DOI: \doi{10.1109/IISWC.2009.5306785}.
+
+\bibitem[Bruening {\bibetal}(2004)Bruening and Amarasinghe]{bruening2004efficient}
+Bruening~D, Amarasinghe~S.
+\newblock Efficient, transparent, and comprehensive runtime code manipulation [J].
+\newblock 2004.
+
+\bibitem[d'Antras {\bibetal}(2016)d'Antras, Gorgovan, Garside, and Luj{\'a}n]{d2016optimizing}
+d'Antras~A, Gorgovan~C, Garside~J, et~al.
+\newblock Optimizing indirect branches in dynamic binary translators [J].
+\newblock ACM Transactions on Architecture and Code Optimization (TACO), 2016, 13\penalty0 (1): 1-25.
+
+\bibitem[Guo {\bibetal}(2014)Guo, Wang, Wu, and He]{guo2014eatbit}
+Guo~H, Wang~Z, Wu~C, et~al.
+\newblock Eatbit: Effective automated test for binary translation with high code coverage [C]//\allowbreak
+2014 Design, Automation \& Test in Europe Conference \& Exhibition (DATE).
+\newblock IEEE, 2014: 1-6.
+
+\bibitem[Hiser {\bibetal}(2007)Hiser, Williams, Hu, Davidson, Mars, and Childers]{hiser2007evaluating}
+Hiser~J~D, Williams~D, Hu~W, et~al.
+\newblock Evaluating indirect branch handling mechanisms in software dynamic translation systems [C]//\allowbreak
+International Symposium on Code Generation and Optimization (CGO'07).
+\newblock IEEE, 2007: 61-73.
+
+\bibitem[Hookway(1997)]{hookway1997digital}
+Hookway~R.
+\newblock Digital fx! 32 running 32-bit x86 applications on alpha nt [C]//\allowbreak
+Proceedings IEEE COMPCON 97. Digest of Papers.
+\newblock IEEE, 1997: 37-42.
+
+\bibitem[Inc.(2023)]{apple2023}
+Inc.~A.
+\newblock About the rosetta translation environment [J/OL].
+\newblock Apple Developer Documentation, 2023.
+\newblock \url{https://developer.apple.com/documentation/apple-silicon/about-the-rosetta-translation-environment}.
+
+\bibitem[Shi {\bibetal}(2016)Shi and Zhao]{shi2016floating}
+Shi~Q, Zhao~R.
+\newblock Floating point optimization based on binary translation system qemu [C]//\allowbreak
+2016 2nd Workshop on Advanced Research and Technology in Industry Applications (WARTIA-16).
+\newblock Atlantis Press, 2016: 1338-1343.
+
+\bibitem[Xie {\bibetal}(2024)Xie, Yan, Yan, Tao, Zhang, Li, Lan, Wu, Liu, Zhang, and Zhang]{10.1145/3640813}
+Xie~B, Yan~Y, Yan~C, et~al.
+\newblock An instruction inflation analyzing framework for dynamic binary translators [J/OL].
+\newblock ACM Trans. Archit. Code Optim., 2024, 21\penalty0 (2).
+\newblock \url{https://doi.org/10.1145/3640813}.
+
+\bibitem[Yue {\bibetal}(2010)Yue, Pang, Han, and Cui]{yue2010improved}
+Yue~F, Pang~J, Han~X, et~al.
+\newblock An improved code cache management scheme from i386 to alpha in dynamic binary translation [C]//\allowbreak
+2010 Second International Conference on Computer Modeling and Simulation: volume~2.
+\newblock IEEE, 2010: 321-324.
+
+\end{thebibliography}

@@ -1,10 +1,20 @@
 \contentsline {section}{\numberline {一}选题的背景及意义}{1}{section.1}%
 \contentsline {subsection}{\numberline {1.1}选题背景}{1}{subsection.1.1}%
-\contentsline {subsubsection}{\numberline {1.1.1}背景}{1}{subsubsection.1.1.1}%
 \contentsline {subsection}{\numberline {1.2}选题意义}{1}{subsection.1.2}%
-\contentsline {subsubsection}{\numberline {1.2.1}意义}{1}{subsubsection.1.2.1}%
-\contentsline {section}{\numberline {二}国内外本学科领域的发展现状与趋势}{1}{section.2}%
-\contentsline {section}{\numberline {三}课题主要研究内容、预期目标}{1}{section.3}%
-\contentsline {section}{\numberline {四}拟采用的研究方法、技术路线、实验方案及其可行性分析}{2}{section.4}%
-\contentsline {section}{\numberline {五}已有科研基础与所需的科研条件}{2}{section.5}%
-\contentsline {section}{\numberline {六}研究工作计划与进度安排}{2}{section.6}%
+\contentsline {section}{\numberline {二}国内外本学科领域的发展现状与趋势}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}典型的二进制翻译系统}{2}{subsection.2.1}%
+\contentsline {subsubsection}{\numberline {2.1.1}QEMU}{2}{subsubsection.2.1.1}%
+\contentsline {subsubsection}{\numberline {2.1.2}Rosetta2 和 ExaGear}{2}{subsubsection.2.1.2}%
+\contentsline {subsubsection}{\numberline {2.1.3}LATX 和 LATA}{3}{subsubsection.2.1.3}%
+\contentsline {subsubsection}{\numberline {2.1.4}Berberis 和 Houdini}{3}{subsubsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.2}二进制翻译系统的瓶颈分析}{4}{subsection.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.1}DynamoRIO}{4}{subsubsection.2.2.1}%
+\contentsline {subsubsection}{\numberline {2.2.2}Borin‘s StarDBT}{5}{subsubsection.2.2.2}%
+\contentsline {subsubsection}{\numberline {2.2.3}Deflater}{5}{subsubsection.2.2.3}%
+\contentsline {subsection}{\numberline {2.3}二进制翻译系统的常见优化}{6}{subsection.2.3}%
+\contentsline {subsubsection}{\numberline {2.3.1}纯软件的优化}{6}{subsubsection.2.3.1}%
+\contentsline {subsubsection}{\numberline {2.3.2}软硬结合的优化}{7}{subsubsection.2.3.2}%
+\contentsline {section}{\numberline {三}课题主要研究内容、预期目标}{8}{section.3}%
+\contentsline {section}{\numberline {四}拟采用的研究方法、技术路线、实验方案及其可行性分析}{8}{section.4}%
+\contentsline {section}{\numberline {五}已有科研基础与所需的科研条件}{9}{section.5}%
+\contentsline {section}{\numberline {六}研究工作计划与进度安排}{9}{section.6}%

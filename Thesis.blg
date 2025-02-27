@@ -1,0 +1,66 @@
+This is BibTeX, Version 0.99d (TeX Live 2024)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Thesis.aux
+The style file: Biblio/gbt7714-author-year.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Database file #1: Biblio/ref.bib
+Warning--entry type for "hu2023" isn't style-file defined
+--line 107 of file Biblio/ref.bib
+Warning--entry type for "YCH2024" isn't style-file defined
+--line 116 of file Biblio/ref.bib
+Warning--empty key in huawei2023
+Warning--empty key in 谢汶兵2024二进制翻译技术综述
+Warning--empty key in 2022-20196
+Warning--empty key in hu2023
+Warning--empty key in YCH2024
+Warning--empty key in zou2021
+Warning--empty journal in bruening2004efficient
+You've used 17 entries,
+            5319 wiz_defined-function locations,
+            1144 strings with 10940 characters,
+and the built_in function-call counts, 98240 in all, are:
+= -- 2593
+> -- 10645
+< -- 13446
++ -- 4035
+- -- 948
+* -- 882
+:= -- 13995
+add.period$ -- 56
+call.type$ -- 17
+change.case$ -- 101
+chr.to.int$ -- 3533
+cite$ -- 41
+duplicate$ -- 382
+empty$ -- 1272
+format.name$ -- 459
+if$ -- 25380
+int.to.chr$ -- 18
+int.to.str$ -- 1
+missing$ -- 0
+newline$ -- 113
+num.names$ -- 68
+pop$ -- 4397
+preamble$ -- 1
+purify$ -- 90
+quote$ -- 0
+skip$ -- 9858
+stack$ -- 0
+substring$ -- 4807
+swap$ -- 2
+text.length$ -- 244
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 269
+warning$ -- 7
+while$ -- 330
+width$ -- 0
+write$ -- 250
+(There were 9 warnings)
