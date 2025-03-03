@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.2.21)  3 MAR 2025 15:24
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2022/dev/Debian) (preloaded format=xelatex 2025.2.21)  3 MAR 2025 16:41
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1377,12 +1377,7 @@ Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script
 Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
 Missing character: There is no ‌ (U+200C) in font [XITS-Regular.otf]/OT:script=latn;language=dflt;mapping=tex-text;!
-[3] [4] [5] [6] [7] [8]
-Overfull \hbox (9.86383pt too wide) in paragraph at lines 121--122
-[]\TU/entextsf/m/n/12.045 2025 \TU/FandolSong-Regular(0)/m/n/12.045 年 \TU/entextsf/m/n/12.045 1 \TU/FandolSong-Regular(0)/m/n/12.045 月\TU/entextsf/m/n/12.045 -2025 \TU/FandolSong-Regular(0)/m/n/12.045 年 \TU/entextsf/m/n/12.045 2 \TU/FandolSong-Regular(0)/m/n/12.045 月：|  完 成 \TU/entextsf/m/n/12.045 LATA-V \TU/FandolSong-Regular(0)/m/n/12.045 的 随 机 指 令 验 证 框 架 和 \TU/entextsf/m/n/12.045 QEMU&LATA-
- []
-
-) (./Thesis.bbl
+[3] [4] [5] [6] [7] [8]) (./Thesis.bbl
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
 (Font)              scaled to size 7.00075pt on input line 20.
 LaTeX Font Info:    Font shape `TU/XITSMath-Regular(2)/m/n' will be
